@@ -5,6 +5,7 @@ Welcome to **Django on EKS with Terraform**! This project is your sleek, modern 
 ---
 
 ## 🗂️ Project Structure
+```bash
 django-eks-terraform/
 ├── modules/                # 🛠️ Reusable Terraform Modules
 │   ├── vpc/               # VPC Configuration
@@ -23,6 +24,7 @@ django-eks-terraform/
 ├── requirements.txt      # 📋 Python Dependencies
 └── README.md             # 📖 You’re Here!
 
+```
 ---
 
 ## ⚡ Prerequisites
